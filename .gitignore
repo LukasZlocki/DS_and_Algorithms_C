@@ -1,2 +1,4 @@
 DataStructuresAndAlgorithms_C.csproj
 obj/
+.vscode/
+bin/
