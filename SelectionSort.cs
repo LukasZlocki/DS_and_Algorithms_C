@@ -2,9 +2,9 @@
 
 namespace DataStructuresAndAlgorithms_C
 {
-    public class SelectionSort
+    public static class SelectionSort
     {
-        public int[] StartSelectionSort (int[] array)
+        public static int[] StartSelectionSort (int[] array)
         {
 
             for (int i = 0; i < array.Length; i++ )
