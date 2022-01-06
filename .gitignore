@@ -1,4 +1,6 @@
 DataStructuresAndAlgorithms_C.csproj
 obj/
 .vscode/
+.vs/
 bin/
+DataStructuresAndAlgorithms_C.sln
